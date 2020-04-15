@@ -43,9 +43,9 @@ class Listen extends Component {
                 <button onClick={this.onClickHandler}>Select an option</button>
                 {this.state.isOpen && (
                     <ul>
-                        <li>Option 1</li>
-                        <li>Option 2</li>
-                        <li>Option 3</li>
+                        <li>Option 11</li>
+                        <li>Option 22</li>
+                        <li>Option 33</li>
                     </ul>
                 )}
             </div>
